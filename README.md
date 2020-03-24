@@ -1,7 +1,6 @@
-# ProjectGroup-8
+# Crowd-Lending Platform
 
-## Project Idea 1-
-# Approved
+
 ### Project Title: 
 Crowd-Lending Platform
 
@@ -13,38 +12,3 @@ Crowd-Lending Platform
   
 ### Technology stack:
 HTML5, CSS3, JavaScript, React, Redux, Node.JS, REST API, Mongo DB, AWS
-  
-
-
-## Project Idea 2-
-
-### Project Title : 
-HomeSheph
-
-### Project Idea Description:
-This is a Web app or an Android app where an user has the option of ordering a cook who comes to their home and provides the delicious dishes they want at home. With all the ingredients already available at home, The cost of the same dish with the same deliciousness being cooked at home by the same chef as in a restaurant comes down by at least 40 percent, thereby turning it into a cost-efficient idea for relishing various options of cuisines.
-For example, If a family of 4 people were to eat Biryani(an Indian dish) at a restaurant, it may cost around 50 USD. If the same dish is being prepared at home by the chef at our own house, It costs around 20 USD for all the ingredients and a considerate amount is given to the Chef, based on the effort and the cuisine. That's a saving of 60 percent for the family. 
-### Goal of the Project:
- The goal of the project is to build an app for the users who want to enjoy the deliciousness of the dishes at their home at a cheaper cost than what it costs at the restaurant. 
-### Technology stack:
-HTML5, CSS3, JavaScript, React, Redux, Node.JS, REST API, Mongo DB
- 
- 
- 
-## Project Idea 3-
-
-### Project Title: 
-Chatbot for a Job application portal
-
-### Project Idea Description:
-  We will be developing a chat-bot for a job application portal which allows students to have a chat with the respective company bot to know about the vacancies and the career opportunities. Instead of using multiple platforms like linkedIn, Gmail or the company’s website, this bot provides a single platform for the students to contact multiple companies.
-
-### Goal of the project:
-   The project aims to provide a single communication channel for the students to contact multiple companies.   
-
-### Technology stack:
-HTML5, CSS3, JavaScript, React, Redux, Node.JS, REST API
- 
- 
- 
- 
