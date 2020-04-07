@@ -18,3 +18,6 @@ All the analysis will be done in a Python Jupyter Notebook, utilizing the packag
   
 ### Technology stack:
 Jupyter Notebook, IBM Watsaon, AWS JavaScript, Python, React, Redux, Node.JS, REST API, Mongo DB, Bootstrap, scikit-learn
+
+### Architecture:
+![](images/Architecture_Diagram.JPG)
