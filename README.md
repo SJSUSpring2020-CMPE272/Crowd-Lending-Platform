@@ -1,14 +1,20 @@
-# Crowd-Lending Platform
+# Money-Lending Prediction Platform
 
 
 ### Project Title: 
-Crowd-Lending Platform
+Money-Lending Prediction Platform
+
 
 ### Project Idea Description:
-  We will be developing a web application that is exposed as a PaaS. Two types of users can log in; either as a borrower or a lender. A lender will log in to the application and will invest his principal amount and will be giving the expected rate of Interest and the time of the investment. Similarly, the borrower will be logging in and put a request for a certain amount and the interest rate he is looking for. Our intelligent algorithm, not just match peer to peer for the same criteria but also aggregates the different lender's criteria based on the amounts invested, a period of amount availability and interest rates provided and will show an optimum option for the borrower. It also gives the other available options from which the borrower can choose and go ahead.
+
+  LendingClub is a US peer-to-peer lending company and the world's largest peer-to-peer lending platform. In this project, we build machine learning models to predict the probability that a loan on LendingClub will charge off (default). These models could help LendingClub investors make better-informed investment decisions. We use a 1.8 GB LendingClub dataset with 152 variables for each loan.
+In training the models, we only use features that are known to investors before they choose to invest in the loan. These features include, among others, the borrower's income, FICO score, and debt-to-income ratio, and the loan amount, purpose, grade, and interest rate.
+The modeling process takes several steps, including: removing loan features with significant missing data, or that aren't known to investors; exploring, transforming, and visualizing the data; creating dummy variables for categorical features; and fitting models: Decision tree, random forest, Support Vector Machine. We use cross validation to select the features which really influence a decision on the dataset.
+All the analysis will be done in a Python Jupyter Notebook, utilizing the packages numpy, pandas, matplotlib, seaborn, and scikit-learn.
 
 ### Goal of the project:
-  This project is targeted towards the people who are in need of some urgent money and also to the people who are interested in investing the money for the benefit of the interest. (Mutual Benefit for both the Lender and the Borrower.
+
+  The goal of this project is to build a machine learning model to predict the probability that a loan will charge off. We will attempt to only use data available to investors via the LendingClub loan listing, including information about the borrower (income, employment length, FICO score, debt-to-income ratio, etc.) and the loan listing (the loan amount, loan purpose, loan grade, interest rate, installment, etc.). Such a predictive model could help LendingClub investors make better-informed investment decisions. We will only consider loans that LendingClub accepted under its credit underwriting policy.
   
 ### Technology stack:
-HTML5, CSS3, JavaScript, React, Redux, Node.JS, REST API, Mongo DB, AWS
+Jupyter Notebook, IBM Watsaon, AWS JavaScript, Python, React, Redux, Node.JS, REST API, Mongo DB, Bootstrap, scikit-learn
