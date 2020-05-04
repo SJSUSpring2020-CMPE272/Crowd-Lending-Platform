@@ -5,19 +5,21 @@
 Money-Lending Prediction Platform
 
 
-### Project Idea Description:
+### Abstract:
 
-  LendingClub is a US peer-to-peer lending company and the world's largest peer-to-peer lending platform. In this project, we build machine learning models to predict the probability that a loan on LendingClub will charge off (default). These models could help LendingClub investors make better-informed investment decisions. We use a 1.8 GB LendingClub dataset with 152 variables for each loan.
-In training the models, we only use features that are known to investors before they choose to invest in the loan. These features include, among others, the borrower's income, FICO score, and debt-to-income ratio, and the loan amount, purpose, grade, and interest rate.
-The modeling process takes several steps, including: removing loan features with significant missing data, or that aren't known to investors; exploring, transforming, and visualizing the data; creating dummy variables for categorical features; and fitting models: Decision tree, random forest, Support Vector Machine. We use cross validation to select the features which really influence a decision on the dataset.
-All the analysis will be done in a Python Jupyter Notebook, utilizing the packages numpy, pandas, matplotlib, seaborn, and scikit-learn.
+  LendingClub is a US based company and it is the world's biggest peer-to-peer lending platform. In this project, we aim to build a machine learning model that predicts the probability that a loan will be charged off or not. Such models help investors of LendingClub make better-informed decisions in terms of investment. We have used a 1.8 GB dataset with around 150 variables for each and every loan.
 
-### Goal of the project:
+  In training the model, we use only the features that are known to investors before they choose to invest in the loan. These key features include, the income of the borrower, FICO score, ratio of debt to income, and the required loan amount, the purpose,his location, grade, and the interest rate.
 
-  The goal of this project is to build a machine learning model to predict the probability that a loan will charge off. We will attempt to only use data available to investors via the LendingClub loan listing, including information about the borrower (income, employment length, FICO score, debt-to-income ratio, etc.) and the loan listing (the loan amount, loan purpose, loan grade, interest rate, installment, etc.). Such a predictive model could help LendingClub investors make better-informed investment decisions. We will only consider loans that LendingClub accepted under its credit underwriting policy.
+  The modeling process involves several steps, consisting: removing the features with significant missing data, or that aren't exposed to investors; exploring the data, transforming the data, and visualizing it; creating dummy variables for categorical features; filling missing data with mean or median values; and the fitting models: logistic regression, random forest, gradient boosting. We have used cross validation techinique to select features which really influence a decision on the dataset and finalized 30 attributes for model training and testing. 
+  
+  All the analysis will be done in a Python Jupyter Notebook, utilizing the packages numpy, pandas, matplotlib, seaborn, and scikit-learn.
+
+  As a part of this project, We also developed an UI, which is an enterprise application aimed at the investors. An investor can enter the attributes in an UI and the response returned is a probability that the loan will be charged off. 
   
 ### Technology stack:
-Jupyter Notebook, IBM Watsaon, AWS JavaScript, Python, React, Redux, Node.JS, REST API, Mongo DB, Bootstrap, scikit-learn
+
+IBM Watson, JavaScript, Python, React, Redux, REST API, Flask,  Bootstrap, scikit-learn
 
 ### Architecture:
 ![](images/Architecture_Diagram.JPG)
