@@ -1,10 +1,9 @@
 # Money-Lending Prediction Platform
 
 
-### Project Name: 
+### Money-Lending Prediction Platform- Loan Lending Club
 
-Money-Lending Prediction Platform- Loan Lending Club
-A platform implemented using Machine learning models to make a real-time prediction using a particular given output.
+  A platform implemented using Machine learning models to make a real-time prediction using a particular given output.
 
 
 ### Abstract:
