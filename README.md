@@ -1,8 +1,10 @@
 # Money-Lending Prediction Platform
 
 
-### Project Title: 
-Money-Lending Prediction Platform
+### Project Name: 
+
+Money-Lending Prediction Platform- Loan Lending Club
+A platform implemented using Machine learning models to make a real-time prediction using a particular given output.
 
 
 ### Abstract:
@@ -17,9 +19,12 @@ Money-Lending Prediction Platform
 
   As a part of this project, We also developed an UI, which is an enterprise application aimed at the investors. An investor can enter the attributes in an UI and the response returned is a probability that the loan will be charged off. 
   
+  
+### Architecture:
+
+![](images/Architechture3.JPG)
+
+
 ### Technology stack:
 
 IBM Watson, JavaScript, Python, React, Redux, REST API, Flask,  Bootstrap, scikit-learn
-
-### Architecture:
-![](images/Architechture3.JPG)
