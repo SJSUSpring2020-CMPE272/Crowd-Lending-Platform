@@ -22,4 +22,4 @@ Money-Lending Prediction Platform
 IBM Watson, JavaScript, Python, React, Redux, REST API, Flask,  Bootstrap, scikit-learn
 
 ### Architecture:
-![](images/Architecture_Diagram.JPG)
+![](images/Architechture3.JPG)
